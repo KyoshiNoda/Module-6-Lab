@@ -12,7 +12,7 @@ public class ColorChooser extends Application {
                 FXMLLoader.load(getClass().getResource("ColorChooser.fxml"));
 
         Scene scene = new Scene(root);
-        stage.setTitle("Color Chooser");
+        stage.setTitle("Kyoshi Noda");
         stage.setScene(scene);
         stage.show();
     }
